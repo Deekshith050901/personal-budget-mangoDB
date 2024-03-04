@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JayanthSaiBhogireddy/personal-budget-mongoDB.git "
+    "url": "git+https://github.com/Deekshith050901/personal-budget-mangoDB.git "
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JayanthSaiBhogireddy/personal-budget-mongoDB.git/issues"
+    "url": "https://github.com/Deekshith050901/personal-budget-mangoDB.gitissues"
   },
-  "homepage": "https://github.com/JayanthSaiBhogireddy/personal-budget-mongoDB.git#readme",
+  "homepage": "https://github.com/Deekshith050901/personal-budget-mangoDB.git.git#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.3",
